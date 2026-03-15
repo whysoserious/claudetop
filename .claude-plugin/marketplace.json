@@ -15,7 +15,10 @@
         "name": "Lior Weinstein",
         "email": "liorwn@users.noreply.github.com"
       },
-      "source": ".",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/liorwn/claudetop.git"
+      },
       "category": "monitoring",
       "homepage": "https://github.com/liorwn/claudetop",
       "tags": ["cost-tracking", "tokens", "analytics", "status-line", "budget"]
