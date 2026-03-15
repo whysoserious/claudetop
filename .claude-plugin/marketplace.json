@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "liorwn-claudetop",
+  "name": "whysoserious/claudetop",
   "description": "claudetop — htop for Claude Code sessions",
   "owner": {
     "name": "Lior Weinstein",
